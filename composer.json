@@ -1,5 +1,5 @@
 {
-    "name": "willdurand/geocoder",
+    "name": "carlosmaiello/geocoder",
     "type": "library",
     "description": "Common files for PHP Geocoder",
     "keywords": ["geocoder", "geocoding", "abstraction", "geoip"],
